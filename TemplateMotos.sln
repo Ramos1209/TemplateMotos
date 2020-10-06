@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0-Application", "0-Application", "{FB0E98E2-0E62-43FC-BF70-4221BF965B4D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Services", "2-Services", "{15DBF7CA-187C-4DD9-ADA4-C1A821577147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moto", "src\Moto\Moto.csproj", "{4F861A3C-F735-40FC-9ABF-76A2E553A650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F861A3C-F735-40FC-9ABF-76A2E553A650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F861A3C-F735-40FC-9ABF-76A2E553A650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F861A3C-F735-40FC-9ABF-76A2E553A650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F861A3C-F735-40FC-9ABF-76A2E553A650}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4F861A3C-F735-40FC-9ABF-76A2E553A650} = {FB0E98E2-0E62-43FC-BF70-4221BF965B4D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AFC7F88-C24A-438B-B2F8-DF75326E7DB9}
+	EndGlobalSection
+EndGlobal
